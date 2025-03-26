@@ -1,0 +1,41 @@
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.exe
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.deps.json
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.runtimeconfig.json
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.dll
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.pdb
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form1.resources
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.AssemblyInfo.cs
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.dll
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\refint\Guia1_24_marzo_21_MarcosObregon.dll
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.pdb
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.genruntimeconfig.cache
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\ref\Guia1_24_marzo_21_MarcosObregon.dll
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form2.resources
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form3.resources
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form4.resources
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form5.resources
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.exe
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.deps.json
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.runtimeconfig.json
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.dll
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\bin\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.pdb
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form1.resources
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form2.resources
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form3.resources
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form4.resources
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.Form5.resources
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.csproj.GenerateResource.cache
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.AssemblyInfoInputs.cache
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.AssemblyInfo.cs
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.csproj.CoreCompileInputs.cache
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.sourcelink.json
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.dll
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\refint\Guia1_24_marzo_21_MarcosObregon.dll
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.pdb
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\Guia1_24_marzo_21_MarcosObregon.genruntimeconfig.cache
+C:\Users\marco\Source\Repos\GUIA-1-_-Marcos-Obregon\Guia1_24_marzo_21_MarcosObregon\Guia1_24_marzo_21_MarcosObregon\obj\Debug\net8.0-windows\ref\Guia1_24_marzo_21_MarcosObregon.dll
